@@ -28,3 +28,180 @@
 .active {
 	color: orange;
 }
+
+.container {
+	width: 100%;
+	height: 520px;
+	background-color: #E6E6E6;
+	position: relative;
+}
+
+.banner {
+	position: absolute;
+	height: 450px;
+	width: 1320px;
+	left: 7%;
+	top: 7%;
+}
+
+.text-style {
+	position: absolute;
+	color: #E6E6E6;
+	font-size: 30px;
+	font-family: 'Roboto';
+}
+
+.image-text {
+	top: 55%;
+	left: 10%;
+}
+
+.image-text2 {
+	top: 61%;
+	left: 10%;
+}
+
+.image-text3 {
+	top: 67%;
+	left: 10%;
+}
+
+.image-text4 {
+	top: 73%;
+	left: 10%;
+}
+
+.logo2 {
+	width: 100px;
+	position: absolute;
+	top: 82%;
+	left: 84%;
+}
+
+.container2 {
+	width: 100%;
+	background-color: #363E97;
+	height: 520px;
+	position: relative;
+}
+
+.blue-box-text {
+	font-size: 24px;
+	color: #fff;
+	position: absolute;
+	left: 7%;
+	top: 7%;
+}
+
+.box1 {
+	background-color: #fff;
+	width: 42%;
+	height: 60%;
+	top: 20%;
+	left: 7%;
+	position: relative;
+	display: inline-block;
+}
+
+.white-box-text {
+	font-size: 17px;
+	color: #000;
+	position: absolute;
+	top: 50%;
+	left: 22%;
+}
+
+.box2 {
+	background-color: #fff;
+	width: 42%;
+	height: 60%;
+	top: 20%;
+	left: 7%;
+	position: relative;
+	display: inline-block;
+	margin-left: 2.5%;
+}
+
+.container3 {
+	width: 100%;
+	background-color: #BDCCD4;
+	height: 520px;
+	position: relative;
+}
+
+.news {
+	font-size: 24px;
+	color: #3D58A6;
+	position: absolute;
+	top: 7%;
+	left: 7%;
+}
+
+.news-box1 {
+	width: 270px;
+	height: 275px;
+	position: absolute;
+	top: 15%;
+	left: 7%;
+	background-color: #fff;
+}
+
+.surati1 {
+	position: absolute;
+}
+
+.lab {
+	position: absolute;
+	top: 85%;
+	left: 5%;
+	font-size: 22px;
+	color: #333;
+}
+
+.news-box2 {
+	width: 270px;
+	height: 275px;
+	position: absolute;
+	top: 15%;
+	left: 27%;
+	background-color: #fff;
+}
+
+.coding {
+	position: absolute;
+	font-size: 22px;
+	top: 85%;
+	left: 7%;
+}
+
+.news-box3 {
+	width: 270px;
+	height: 275px;
+	position: absolute;
+	top: 15%;
+	left: 47%;
+	background-color: #fff;
+}
+
+.design {
+	font-size: 22px;
+	position: absolute;
+	top: 85%;
+	left: 7%;
+}
+
+.news-box4 {
+	width: 270px;
+	height: 275px;
+	position: absolute;
+	top: 15%;
+	left: 67%;
+	background-color: #fff;
+}
+
+.online {
+	font-size: 22px;
+	position: absolute;
+	top: 85%;
+	left: 7%;
+}
